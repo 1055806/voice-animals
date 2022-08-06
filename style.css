@@ -1,0 +1,55 @@
+body
+{
+    font-family: cursive;
+    background-color:orange;
+    font-size: 30px;
+}
+
+.header_div
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size:xx-large;
+    font-weight: bold;
+    width: 100%;
+    text-shadow:5px 5px rgba(71, 70, 70, 0.129);
+}
+
+.main_div button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #6c7d79;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: midnightblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+.header_div p
+{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+#result_label
+{
+color: rgb(0, 0, 0);
+}
+
+#result_confidence
+{
+    color: rgb(0, 0, 0);
+}
